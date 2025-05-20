@@ -54,7 +54,7 @@
 
 6a-factorial-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6a.jpeg
 
-6b-cookieFormhttps://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6b.jpeg
+6b-cookieForm-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6b.jpeg
 
 6c-prime-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6c.jpeg
 
