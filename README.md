@@ -18,25 +18,25 @@
 
 3a-StringOperationsDemo-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/2a3a.png
 
-3bq1-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq1.png
+3bq1-isNullOrEmpty-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq1.png
 
-3bq2-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq2.png
+3bq2-countOccurances-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq2.png
 
-3bq3-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq3.png
+3bq3-reverseString-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq3.png
 
-3bq4-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq4.png
+3bq4-isPalindrome-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq4.png
 
-3bq5-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq5.png
+3bq5-removeWhiteSpace-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3bq5.png
 
-3bq6-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq6.png
+3cq6-capitalizeWords-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq6.png
 
-3cq7-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq7.png
+3cq7-shortenString-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq7.png
 
-3cq8-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq8.png
+3cq8-Numeric-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq8.png
 
-3cq9-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq9.png
+3cq9-generateRandomString-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq9.png
 
-3cq10-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq10.png
+3cq10-numOfWord-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq10.png
 
 4a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4a.jpeg
 
@@ -50,7 +50,7 @@
 
 5c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5c.jpeg
 
-5d-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5d.jpeg
+5d-ColorTabbedPaneDemo-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5d.jpeg
 
 6a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6a.jpeg
 

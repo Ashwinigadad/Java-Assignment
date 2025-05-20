@@ -6,7 +6,7 @@ package project4a;
 import javax.swing.*;
 import java.awt.*;
 
-public class ColorTabbedPaneDemo5d {
+public class q5dColorTabbedPaneDemo {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Color TabbedPane Example");
         frame.setSize(400, 300);

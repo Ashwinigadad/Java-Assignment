@@ -4,7 +4,7 @@ package project4a;
 import javax.swing.*;  // Swing package
 import java.awt.*;     // Font & Color
 
-public class HelloSwing {
+public class q4aHelloSwing {
     public static void main(String[] args) {
         // Create a JFrame
         JFrame frame = new JFrame("Swing Hello Program");

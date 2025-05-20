@@ -8,7 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class ImageButtonEvent {
+public class q4ImageButtonEvent {
     public static void main(String[] args) {
         // Create a frame
         JFrame frame = new JFrame("Image Button Example");
