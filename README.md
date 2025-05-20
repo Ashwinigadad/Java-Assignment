@@ -44,36 +44,36 @@
 
 4c-ImageButton-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4c.jpeg
 
-5a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5a.jpeg
+5a-CountryList-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5a.jpeg
 
-5b-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5b.jpeg
+5b-ColorTabbedPaneDemo-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5b.jpeg
 
-5c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5c.jpeg
+5c-CountryCapital-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5c.jpeg
 
 5d-ColorTabbedPaneDemo-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5d.jpeg
 
-6a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6a.jpeg
+6a-factorial-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6a.jpeg
 
-6b-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6b.jpeg
+6b-cookieFormhttps://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6b.jpeg
 
-6c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6c.jpeg
+6c-prime-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/6c.jpeg
 
-7a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/7a.jpeg
+7a-sessionManagement-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/7a.jpeg
 
-7b-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/7b.jpeg
+7b-cookieManagement-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/7b.jpeg
 
-8a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8a.jpeg
+8a-inserCoffe-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8a.jpeg
 
-8b-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8b.jpeg
+8b-updateCoffe-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8b.jpeg
 
-8c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8c.jpeg
+8c-inputEmployee-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8c.jpeg
 
-8d-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8d.jpeg
+8d-updateEmployee-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/8d.jpeg
 
-9a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9a.jpeg
+9a-deleteCoffe-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9a.jpeg
 
-9b-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9b.jpeg
+9b-viewCoffe-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9b.jpeg
 
-9c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9c.jpeg
+9c-reportEmployee-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9c.jpeg
 
-9d-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9d.jpeg
+9d-deleteSEmployee-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/9d.jpeg

@@ -6,7 +6,7 @@ package project4a;
 import javax.swing.*;
 import java.awt.*;
 
-public class ColorTabbedPaneDemo {
+public class q5bColorTabbedPaneDemo {
     public static void main(String[] args) {
         // Create a frame
         JFrame frame = new JFrame("Color TabbedPane Example");
