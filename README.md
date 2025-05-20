@@ -38,11 +38,11 @@
 
 3cq10-numOfWord-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/3cq10.png
 
-4a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4a.jpeg
+4a-HelloSwing-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4a.jpeg
 
-4b-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4b.jpeg
+4b-CountryButton-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4b.jpeg
 
-4c-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4c.jpeg
+4c-ImageButton-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/4c.jpeg
 
 5a-https://github.com/Ashwinigadad/Java-Assignment/blob/main/outputs/5a.jpeg
 
