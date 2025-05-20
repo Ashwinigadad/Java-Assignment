@@ -8,7 +8,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class CountryButtonEvent {
+public class q4bCountryButtonEvent {
     public static void main(String[] args) {
         // Create a frame
         JFrame frame = new JFrame("Country Button Example");
