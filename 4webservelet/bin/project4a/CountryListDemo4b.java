@@ -18,7 +18,6 @@ public class CountryListDemo {
                               "France", "Great Britain", "Japan", "Africa",
                               "Greenland", "Singapore"};
 
-        // Create JList with countries
         JList<String> countryList = new JList<>(countries);
         countryList.setVisibleRowCount(6);
         countryList.setSelectionMode(ListSelectionModel.MULTIPLE_INTERVAL_SELECTION);
